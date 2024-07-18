@@ -73,7 +73,7 @@ If you want to create a standalone executable that can run on another PC without
 2. **Generate the executable**:
 
     ```bash
-    pyinstaller --onefile --windowed main.py
+    pyinstaller --onefile --windowed pdf_editor.py
     ```
 
 3. **Find the executable**:
