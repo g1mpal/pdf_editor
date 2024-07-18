@@ -50,7 +50,7 @@ A Python-based PDF editor application with a Tkinter GUI. This application provi
 1. **Run the application**:
 
     ```bash
-    python main.py
+    python pdf_editor.py
     ```
 
 2. **Using the GUI**:
